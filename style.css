@@ -1,0 +1,35 @@
+body{
+background:linear-gradient(135deg,#ff5f9e,#ffc371);
+font-family:Poppins,sans-serif;
+display:flex;
+justify-content:center;
+align-items:center;
+height:100vh;
+}
+.container{
+background:#fff;
+padding:40px;
+border-radius:20px;
+text-align:center;
+box-shadow:0 20px 40px rgba(0,0,0,0.3);
+}
+.telugu{font-size:18px;color:#444;}
+button{
+padding:12px 22px;
+border:none;
+border-radius:25px;
+margin:10px;
+font-size:16px;
+cursor:pointer;
+}
+#yesBtn{background:#ff2e63;color:#fff;}
+#noBtn{background:#ccc;}
+#status{
+margin-top:20px;
+font-size:22px;
+color:#ff2e63;
+}
+#emoji{
+font-size:150px;
+margin-top:20px;
+}
